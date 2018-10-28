@@ -1,6 +1,6 @@
 //Write a program to find unique numbers from a array of integers.
 
-public class MyClazz {//test
+public class MyClazz {//test 1
 	public static void main(String args[]){
 		Integer[] input = {2,3,2,4,5,6,7,6,8,9};
 		Integer[] output = new MyClazz().createUniqueIntegerArray(input);
