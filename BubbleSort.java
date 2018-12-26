@@ -1,7 +1,7 @@
 //bubble sort
 
 public class BubbleSort {
-	public static void main(String args[]){
+	public static void main(String args[]){//testing new repo in win 7
 		int[] inputArr = {2,3,10,1,15,7};
 
 		for(int i=0; i<inputArr.length-1; i++){
