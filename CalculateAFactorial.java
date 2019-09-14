@@ -1,7 +1,7 @@
 //Calculate a factorial
 
 public class CalculateAFactorial {
-	public static void main(String args[]){
+	public static void main(String args[]){//test-1
 		int input = 6;
 		int result = 1;
 		if(input==0){
